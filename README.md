@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Connect section -->
 
