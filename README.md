@@ -12,7 +12,7 @@
 
 <h3 align ="left">Now Playing:</h3>
 
-[![Spotify](novatorem-ten-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
+[![Spotify](https://novatorem-ten-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
 
 <!-- Connect section -->
 
