@@ -10,6 +10,8 @@
 
 <!-- [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<h3 align ="left">Now Playing:</h3>
+
 [![Spotify](novatorem-ten-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
 
 <!-- Connect section -->
