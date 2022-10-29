@@ -10,7 +10,7 @@
 
 <!-- [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Spotify](https://ahmedhassayoune.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
+[![Spotify](novatorem-ten-lyart.vercel.app)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
 
 <!-- Connect section -->
 
