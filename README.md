@@ -5,6 +5,8 @@
 ---
 ✨ I'm a 3rd year undergraduate student at <a href="https://www.epita.fr/en/">EPITA</a> in Paris, France.
 
+<h4 align ="left"> Weekly stats: </h4>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -19,7 +21,7 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 
 <!-- [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h3 align ="left">Vibing to:</h3>
+<h4 align ="left">Vibing to:</h4>
 
 [![Spotify](https://novatorem-ten-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
 
