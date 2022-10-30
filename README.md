@@ -6,6 +6,15 @@
 ✨ I'm a 3rd year undergraduate student at <a href="https://www.epita.fr/en/">EPITA</a> in Paris, France.
 
 <!--START_SECTION:waka-->
+
+```text
+C            18 hrs 36 mins  ████████████████████▓░░░░   83.01 %
+Vim Script   1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Makefile     1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats) -->
