@@ -25,7 +25,7 @@ Other                      6 hrs 31 mins   ███████▓░░░░�
 <!-- Connect section -->
 
 ## Connect with me
-  * <a href="https://www.linkedin.com/in/ahmed-hassayoune-6a10ba251/">Linkedin</a>
+  * <a href="https://www.linkedin.com/in/ahmed-hassayoune">Linkedin</a>
   * <a href="https://twitter.com/Ahmedhassaaa">Twitter</a>
 
 <!-- Connect section: END -->
