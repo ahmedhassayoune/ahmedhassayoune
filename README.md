@@ -19,8 +19,6 @@ Markdown   6 mins          █░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!-- [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhassayoune)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <h4 align ="left">Vibing to</h4>
 
 [![Spotify](https://novatorem-ten-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
