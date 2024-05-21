@@ -3,7 +3,7 @@
 
 <!-- About section -->
 ---
-✨ I'm a 4th year undergraduate student at <a href="https://www.epita.fr/en/">EPITA</a> in Paris.
+✨ I'm a 4th year undergraduate student at <a href="https://www.epita.fr/en/">EPITA</a> in Paris specializing in computer vision and AI.
 
 <h4 align ="left"> Weekly stats </h4>
 
