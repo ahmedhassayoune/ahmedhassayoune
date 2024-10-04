@@ -3,7 +3,7 @@
 
 <!-- About section -->
 ---
-✨ Currently in the second year of a double degree Master's program at <a href="https://www.epita.fr/en/">Sorbonne University</a> and <a href="https://www.epita.fr/en/">EPITA</a> in Paris specializing in advanced Image Processing, Computer Vision and Biomedical Imaging.
+✨ Currently in the second year of a double degree Master's program at <a href="https://www.epita.fr/en/">Sorbonne University</a> and <a href="https://www.epita.fr/en/">EPITA</a> in Paris, specializing in advanced Image Processing, Computer Vision and Biomedical Imaging.
 
 <h4 align ="left"> Weekly stats </h4>
 
