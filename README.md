@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           4 hrs 58 mins   ████████████████████████▓   98.45 %
+Text          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
