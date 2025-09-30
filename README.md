@@ -3,7 +3,9 @@
 
 <!-- About section -->
 ---
-✨ Currently in the second year of a double degree Master's program at <a href="https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-ima">Sorbonne University</a> and <a href="https://www.epita.fr/en/">EPITA</a> in Paris, specializing in Computer Vision and Medical Imaging.
+✨ ML & Computer Vision Engineer from [EPITA](https://www.epita.fr/en/) and [Sorbonne University](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-ima), where I completed a double degree Master's program specializing in image processing, computer vision, and medical imaging.
+
+> Check out my [portfolio](https://ahmedhassayoune.github.io/portfolio/)!
 
 <h4 align ="left"> Weekly stats </h4>
 
@@ -23,6 +25,7 @@ No activity tracked
 
 ## Connect with me
   * <a href="https://www.linkedin.com/in/ahmed-hassayoune">Linkedin</a>
-  * <a href="https://twitter.com/Ahmedhassaaa">Twitter</a>
+  * <a href="https://linktr.ee/ahmed_hassayoune">Linktree</a>
 
 <!-- Connect section: END -->
+
