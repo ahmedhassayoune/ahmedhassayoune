@@ -10,6 +10,15 @@
 <h4 align ="left"> Weekly stats </h4>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       1 hr 52 mins    █████████████▒░░░░░░░░░░░   53.17 %
+YAML         27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+JavaScript   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Astro        18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Markdown     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+```
+
 <!--END_SECTION:waka-->
 
 <h4 align ="left">Vibing to</h4>
