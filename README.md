@@ -10,11 +10,6 @@
 <h4 align ="left"> Weekly stats </h4>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <h4 align ="left">Vibing to</h4>
@@ -28,4 +23,5 @@ No activity tracked
   * <a href="https://linktr.ee/ahmed_hassayoune">Linktree</a>
 
 <!-- Connect section: END -->
+
 
