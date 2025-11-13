@@ -1,13 +1,22 @@
-<!-- Heading -->
 <h3 align="center"> Hi, I'm Ahmed! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
-<!-- About section -->
 ---
-✨ ML & Computer Vision Engineer from [EPITA](https://www.epita.fr/en/) and [Sorbonne University](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-ima), where I completed a double degree Master's program specializing in image processing, computer vision, and medical imaging.
 
-> Check out my [portfolio](https://ahmedhassayoune.github.io/portfolio/)!
+I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](https://www.epita.fr/en/) and [Sorbonne University](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-ima), specializing in image processing, computer vision, and medical imaging.
 
-<h4 align ="left"> Weekly stats </h4>
+> 🌐 Check out my [portfolio](https://ahmedhassayoune.github.io/portfolio/) for projects and work samples.
+
+---
+
+### 🛠️ Technical Stack
+**Programming & Tools:** Python, C/C++, JavaScript, CUDA, Docker, Git  
+**Libraries & Frameworks:** OpenCV, PyTorch, TensorFlow, Keras, ITK/VTK  
+**Techniques:** CNNs, Transformers, GANs, Diffusion Models, Computer Vision, RAG, MCP, LLMs, NLP  
+**Domains:** Medical Imaging, Image Processing, 3D Modeling, Deep Learning
+
+---
+
+### 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
@@ -21,16 +30,13 @@ Markdown     11 mins         █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h4 align ="left">Vibing to</h4>
+---
 
-[![Spotify](https://novatorem-ten-lyart.vercel.app/api/spotify)](https://open.spotify.com/user/31knevkvll66tzc3gqtoi6ngjbre)
+### 📫 Connect with Me
 
-<!-- Connect section -->
-
-## Connect with me
   * <a href="https://www.linkedin.com/in/ahmed-hassayoune">Linkedin</a>
   * <a href="https://linktr.ee/ahmed_hassayoune">Linktree</a>
 
-<!-- Connect section: END -->
+---
 
-
+🌍 Based in Paris, France | French, English, Arabic
