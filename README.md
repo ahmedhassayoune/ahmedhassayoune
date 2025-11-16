@@ -18,11 +18,11 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 <!--START_SECTION:waka-->
 
 ```txt
-Python       44 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-YAML         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-JavaScript   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Astro        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Markdown     11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Python       50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+SSH Config   39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+JSON         34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+YAML         27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+JavaScript   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
 ```
 
 <!--END_SECTION:waka-->
