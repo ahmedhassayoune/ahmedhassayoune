@@ -13,7 +13,7 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 - **Domains:** Medical Imaging, Image Processing, 3D Modeling, Deep Learning, Computer Vision
 
 
-## 📊 Weekly Coding Stats
+## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
