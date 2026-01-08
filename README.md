@@ -2,7 +2,7 @@
 
 <br/>
 
-I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](https://www.epita.fr/en/) and [Sorbonne University](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-ima), specializing in image processing, computer vision, and medical imaging.
+I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](https://www.epita.fr/en/) and [Sorbonne University (UPMC)](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-ima), specializing in image processing, computer vision, and medical imaging.
 
 > 🌐 Check out my [portfolio](https://ahmedhassayoune.github.io/portfolio/) for projects and work samples.
 
