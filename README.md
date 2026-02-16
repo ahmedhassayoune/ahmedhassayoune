@@ -16,7 +16,7 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C789%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C792%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,10 +45,11 @@ Sunday                   155 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Swift                    43 mins             ████████████████░░░░░░░░░   63.42 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   2 hrs 27 mins       █████████████████░░░░░░░░   68.04 % 
+Swift                    43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
