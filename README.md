@@ -24,17 +24,17 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 
 ```text
 🌞 Morning                217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-🌆 Daytime                1083 commits        ██████████░░░░░░░░░░░░░░░   41.02 % 
-🌃 Evening                968 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌆 Daytime                1084 commits        ██████████░░░░░░░░░░░░░░░   41.05 % 
+🌃 Evening                968 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
 🌙 Night                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Tuesday                  553 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Wednesday                486 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Thursday                 477 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Monday                   352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Tuesday                  553 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Wednesday                486 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 477 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 Friday                   330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Saturday                 250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 Sunday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
