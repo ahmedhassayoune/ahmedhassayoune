@@ -16,41 +16,7 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C045%20hrs%2019%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.85%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-🌆 Daytime                1268 commits        ██████████░░░░░░░░░░░░░░░   41.34 % 
-🌃 Evening                1018 commits        ████████░░░░░░░░░░░░░░░░░   33.19 % 
-🌙 Night                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Tuesday                  690 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Wednesday                558 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Friday                   351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Saturday                 260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Sunday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Bash                     5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-TypeScript               4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.86%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
