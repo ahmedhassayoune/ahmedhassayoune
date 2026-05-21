@@ -16,9 +16,41 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C064%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.82%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.84%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌆 Daytime                1245 commits        ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌃 Evening                1025 commits        ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌙 Night                  377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Tuesday                  659 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Wednesday                560 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Thursday                 538 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Friday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Sunday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               13 hrs 46 mins      ████████████░░░░░░░░░░░░░   47.35 % 
+YAML                     5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Bash                     5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Markdown                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+SQL                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+```
 
 
 <!--END_SECTION:waka-->
