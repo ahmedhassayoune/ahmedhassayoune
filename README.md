@@ -16,41 +16,9 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C099%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C101%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.82%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-🌆 Daytime                1351 commits        ██████████░░░░░░░░░░░░░░░   41.63 % 
-🌃 Evening                1115 commits        █████████░░░░░░░░░░░░░░░░   34.36 % 
-🌙 Night                  392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   504 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Tuesday                  656 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Wednesday                561 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 683 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Saturday                 257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Sunday                   211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
-YAML                     6 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Python                   2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Bash                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.87%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
