@@ -16,41 +16,9 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C271%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.01%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1275 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-🌆 Daytime                2467 commits        ███████████░░░░░░░░░░░░░░   43.09 % 
-🌃 Evening                1553 commits        ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌙 Night                  430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1522 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-Tuesday                  1065 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Wednesday                789 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Thursday                 947 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Friday                   844 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Saturday                 341 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Sunday                   217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Markdown                 1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-TypeScript               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-```
 
 
 <!--END_SECTION:waka-->
