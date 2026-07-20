@@ -16,28 +16,28 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C273%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C274%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.11%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1596 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-🌆 Daytime                2816 commits        ███████████░░░░░░░░░░░░░░   43.07 % 
-🌃 Evening                1685 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌙 Night                  441 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌞 Morning                1367 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌆 Daytime                2562 commits        ███████████░░░░░░░░░░░░░░   43.04 % 
+🌃 Evening                1590 commits        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌙 Night                  433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1835 commits        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Tuesday                  1204 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Wednesday                880 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Thursday                 1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Friday                   1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Saturday                 363 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Sunday                   217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Monday                   1603 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Tuesday                  1101 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Wednesday                818 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Thursday                 967 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Friday                   899 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Saturday                 347 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Sunday                   217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 
 
