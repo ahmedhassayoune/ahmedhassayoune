@@ -18,28 +18,26 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C260%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2048%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.99%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1339 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-🌆 Daytime                2540 commits        ███████████░░░░░░░░░░░░░░   43.07 % 
-🌃 Evening                1590 commits        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌞 Morning                1339 commits        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+🌆 Daytime                2540 commits        ███████████░░░░░░░░░░░░░░   43.05 % 
+🌃 Evening                1592 commits        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
 🌙 Night                  429 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1524 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Tuesday                  1108 commits        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Monday                   1524 commits        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Tuesday                  1108 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 Wednesday                843 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 989 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Friday                   881 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Sunday                   217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Thursday                 989 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   881 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 336 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Sunday                   219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 
@@ -52,31 +50,6 @@ YAML                     9 hrs 8 mins        ██████░░░░░�
 Markdown                 4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 TypeScript               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 3 mins (37.17%)
-
-✍️ 3,608 lines written by AI, 879 lines written by hand (80.41% AI-written)
-
-🔤 136,322,104 Input Tokens, 754,969 Output Tokens
-
-💵 $687.17 Estimated AI Cost This Week
-
-🧠 31 AI Sessions, 74 AI Prompts
-
-Opus                     4,628 lines         █████████████████████████   99.81 % 
-Fable                    9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 80.41% of written lines came from AI
-📚 Verbose Prompter — average 1,710 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 28.5% of changed lines were hand-edited
 ```
 
 
