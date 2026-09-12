@@ -16,28 +16,28 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C369%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.43%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1822 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-🌆 Daytime                3151 commits        ███████████░░░░░░░░░░░░░░   43.08 % 
-🌃 Evening                1845 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌙 Night                  496 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+🌞 Morning                1864 commits        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+🌆 Daytime                3197 commits        ███████████░░░░░░░░░░░░░░   43.06 % 
+🌃 Evening                1863 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌙 Night                  500 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1960 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Tuesday                  1415 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                1070 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Thursday                 1203 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Saturday                 333 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Sunday                   219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Monday                   2007 commits        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Tuesday                  1434 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Wednesday                1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Thursday                 1220 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Friday                   1138 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Sunday                   219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 
@@ -45,11 +45,11 @@ Sunday                   219 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
-YAML                     5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-TypeScript               4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Other                    2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Python                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Markdown                 8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
+YAML                     4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+TypeScript               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Other                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 
