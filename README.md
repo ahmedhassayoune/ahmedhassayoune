@@ -45,11 +45,11 @@ Sunday                   219 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
-YAML                     4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-TypeScript               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Other                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown                 6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+YAML                     4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+TypeScript               4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Other                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 ```
 
 
