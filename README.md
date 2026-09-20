@@ -16,7 +16,7 @@ I'm a ML & Computer Vision Engineer with a double Master's degree from [EPITA](h
 ## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C405%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C405%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,11 +45,11 @@ Sunday                   219 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-YAML                     7 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Markdown                 5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-JavaScript               3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Prisma                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+TypeScript               9 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+YAML                     7 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Markdown                 6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+JavaScript               3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Prisma                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
 
 
